@@ -1,42 +1,19 @@
-## Olá 👋, Bem vindos ao meu perfil!
-<div>
+<h1 align="center">Olá 👋, sou Gabriel</h1>
+<h3 align="center">Sou Desenvolvedor Junior sempre disposto a aprender cada vez mais!</h3>
 
- Meu nome é Gabriel Gotardo e sou completamente apaixonado por tecnologia.
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=g0tardo&label=Profile%20views&color=0e75b6&style=flat" alt="g0tardo" /> </p>
 
-##
+- 🌱 I’m currently learning **Javascript, C#, SQL, HTML e CSS**
 
-<img align="right" alt="PNG" src="https://cdn.discordapp.com/attachments/1171086914640679053/1171087299979788358/computer-illustration_1.png?ex=655b670a&is=6548f20a&hm=6aaf24cf280de40dfee957c7913c394e8432851f96f7e600f90b75374e12925a&" width="360px"/>
-  
-### 🧐 About Me:
+- 📫 How to reach me **ggabrielgotardo@gmail.com**
 
-- 💻  Desenvolvedor Júnior
-- 🚀  Trabalho atualmente na [NoPaper Cloud](https://nopapercloud.com.br)
-- 🌍  Vitória-ES, Brazil
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/g0tardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="g0tardo" height="30" width="40" /></a>
+<a href="https://instagram.com/g0tardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g0tardo" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-##
-
-### 🔨 Language and Tools:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="sartervitor-HTML" title="HTML" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp;
-  <img align="center" alt="sartervitor-CSS" title="CSS" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > &nbsp;
-  <img align="center" alt="sartervitor-BOOTSTRAP" title="Boostrap" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"> &nbsp; 
-  <img align="center" alt="sartervitor-PHP" title="PHP" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" > &nbsp;
-  <img align="center" alt="sartervitor-CI3" title="CodeIgniter 3" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" > &nbsp; 
-  <img align="center" alt="sartervitor-JS" title="JavaScript" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp; 
-  <img align="center" alt="sartervitor-MYSQL" title="MySql" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"> &nbsp;
-  <img align="center" alt="sartervitor-LUA" title=".Lua" widht="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg"> &nbsp;
-</div>
-
-### 💭 Social Media:
-
-<div style="display: inline_block"><br>
-  <a href="https://www.instagram.com/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/sartervitor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</div>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=g0tardo&" alt="g0tardo" /></p>
