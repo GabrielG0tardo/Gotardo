@@ -1,7 +1,7 @@
 ## Olá 👋, Bem vindos ao meu perfil!
 <div>
 
- Meu nome é Vitor Gabriel e sou completamente apaixonado por tecnologia.
+ Meu nome é Gabriel Gotardo e sou completamente apaixonado por tecnologia.
 </div>
 
 ##
